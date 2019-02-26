@@ -1,0 +1,1 @@
+# magicpin_application_devolper
